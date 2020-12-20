@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"gitlab.com/norzion/temp0/command-handler/datastore"
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/datastore"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 type MockStore struct {

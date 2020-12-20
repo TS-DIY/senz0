@@ -3,7 +3,7 @@ package datastore
 import (
 	"fmt"
 
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 // InMemoryStore provides a way to run the service without actual database dependencies

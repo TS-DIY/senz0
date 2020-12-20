@@ -8,9 +8,9 @@ import (
 	// if using environment to configure app
 	// "github.com/kelseyhightower/envconfig"
 
-	"gitlab.com/norzion/temp0/command-handler/app"
-	"gitlab.com/norzion/temp0/command-handler/datastore"
-	"gitlab.com/norzion/temp0/command-handler/handlers"
+	"github.com/TS-DIY/senz0/command-handler/app"
+	"github.com/TS-DIY/senz0/command-handler/datastore"
+	"github.com/TS-DIY/senz0/command-handler/handlers"
 )
 
 // Config struct containing all default service settings

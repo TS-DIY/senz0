@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"gitlab.com/norzion/temp0/command-handler/app"
-	"gitlab.com/norzion/temp0/command-handler/datastore"
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/app"
+	"github.com/TS-DIY/senz0/command-handler/datastore"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 // ReportSensorMeasurementsBody ...

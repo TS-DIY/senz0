@@ -5,7 +5,7 @@ package datastore
 
 // import (
 // 	"github.com/jackc/pgx"
-// 	"gitlab.com/norzion/temp0/command-handler/errors"
+// 	"github.com/TS-DIY/senz0/command-handler/errors"
 // )
 
 // type psqlStore struct {

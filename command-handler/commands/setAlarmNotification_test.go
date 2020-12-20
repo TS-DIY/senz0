@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gitlab.com/norzion/temp0/command-handler/app"
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/app"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 func TestNewSetAlarmNotification(t *testing.T) {

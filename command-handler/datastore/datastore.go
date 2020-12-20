@@ -1,8 +1,6 @@
 package datastore
 
-import (
-	"gitlab.com/norzion/temp0/command-handler/errors"
-)
+import "github.com/TS-DIY/senz0/command-handler/errors"
 
 type config struct {
 	connection string

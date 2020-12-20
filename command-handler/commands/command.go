@@ -3,7 +3,7 @@ package commands
 import (
 	"context"
 
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 // Command provides an interface that all commands must implement

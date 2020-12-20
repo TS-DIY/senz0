@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"gitlab.com/norzion/temp0/command-handler/app"
+	"github.com/TS-DIY/senz0/command-handler/app"
 )
 
 func TestNewHTTPHandler(t *testing.T) {

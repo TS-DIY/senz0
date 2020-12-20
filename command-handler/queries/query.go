@@ -3,7 +3,7 @@ package queries
 import (
 	"context"
 
-	"gitlab.com/norzion/temp0/command-handler/errors"
+	"github.com/TS-DIY/senz0/command-handler/errors"
 )
 
 // Query provides an interface that all queries must implement
